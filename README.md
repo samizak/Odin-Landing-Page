@@ -5,3 +5,4 @@
 Very simple landing page
 
 ## Live Preview
+https://samizak.github.io/Odin-Landing-Page/
